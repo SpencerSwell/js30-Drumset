@@ -1,0 +1,21 @@
+body {
+	background-image:url('./drums.jpg');
+}
+
+button {
+	width:25%;
+	height:20%;
+	color:blue;
+	margin-left:37%;
+	padding:5px;
+	font-size:1.5em;
+}
+
+.active {
+	background-color:orange;
+	color:red;
+}
+
+h1 { text-align: center;
+padding:20px; 
+color:red;}
